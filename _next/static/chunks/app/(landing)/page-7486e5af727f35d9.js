@@ -68,11 +68,7 @@
             name: "Twitter",
             icon: (0, r.jsx)(a.Z, { className: "size-4" }),
           },
-          {
-            href: "https://t.me/",
-            name: "Medium",
-            icon: (0, r.jsx)(n.Z, { className: "size-4" }),
-          },
+
         ];
       function c() {
         return (0, r.jsx)("footer", {
@@ -251,7 +247,7 @@
                     children: (0, r.jsx)(m.A, {
                       as: d.O,
                       color: "primary",
-                      href: "https://app-brainiac-ai-3ldx.vercel.app/",
+                      href: "https://app-brainiacai.vercel.app/",
                       variant: "flat",
                       children: "Launch app",
                     }),
@@ -455,7 +451,7 @@
                       }),
                       (0, r.jsx)(n.A, {
                         as: i.O,
-                        href: "https://app-brainiac-ai-3ldx.vercel.app/",
+                        href: "https://app-brainiacai.vercel.app/",
                         variant: "flat",
                         className:
                           "relative overflow-visible bg-white/60 px-12 text-black/80 shadow-xl after:absolute after:inset-0 after:z-[-1] after:rounded-lg after:bg-white/80 after:transition after:!duration-500 after:content-[''] hover:-translate-y-1 hover:after:scale-150 hover:after:opacity-0",
@@ -536,7 +532,7 @@
                 }),
                 (0, r.jsx)(a.A, {
                   as: n.O,
-                  href: "https://app-brainiac-ai-3ldx.vercel.app/",
+                  href: "https://app-brainiacai.vercel.app/",
                   variant: "flat",
                   className:
                     "relative overflow-visible bg-white/60 px-12 text-black/80 shadow-xl after:absolute after:inset-0 after:z-[-1] after:rounded-lg after:bg-white/80 after:transition after:!duration-500 after:content-[''] hover:-translate-y-1 hover:after:scale-150 hover:after:opacity-0",
