@@ -250,8 +250,19 @@
                   (0, r.jsx)(x.k, {
                     children: (0, r.jsx)(m.A, {
                       as: d.O,
+                      isIconOnly: !0,
                       color: "primary",
-                      href: "/app",
+                      href: "https://t.me",
+                      isExternal: !0,
+                      variant: "flat",
+                      children: (0, r.jsx)(p.Z, {}),
+                    }),
+                  }),
+                  (0, r.jsx)(x.k, {
+                    children: (0, r.jsx)(m.A, {
+                      as: d.O,
+                      color: "primary",
+                      href: "https://app-brainiac-ai-3ldx.vercel.app/",
                       variant: "flat",
                       children: "Launch app",
                     }),
@@ -455,7 +466,7 @@
                       }),
                       (0, r.jsx)(n.A, {
                         as: i.O,
-                        href: "/app",
+                        href: "https://app-brainiac-ai-3ldx.vercel.app/",
                         variant: "flat",
                         className:
                           "relative overflow-visible bg-white/60 px-12 text-black/80 shadow-xl after:absolute after:inset-0 after:z-[-1] after:rounded-lg after:bg-white/80 after:transition after:!duration-500 after:content-[''] hover:-translate-y-1 hover:after:scale-150 hover:after:opacity-0",
@@ -536,7 +547,7 @@
                 }),
                 (0, r.jsx)(a.A, {
                   as: n.O,
-                  href: "/app",
+                  href: "https://app-brainiac-ai-3ldx.vercel.app/",
                   variant: "flat",
                   className:
                     "relative overflow-visible bg-white/60 px-12 text-black/80 shadow-xl after:absolute after:inset-0 after:z-[-1] after:rounded-lg after:bg-white/80 after:transition after:!duration-500 after:content-[''] hover:-translate-y-1 hover:after:scale-150 hover:after:opacity-0",
