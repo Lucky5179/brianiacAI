@@ -250,17 +250,6 @@
                   (0, r.jsx)(x.k, {
                     children: (0, r.jsx)(m.A, {
                       as: d.O,
-                      isIconOnly: !0,
-                      color: "primary",
-                      href: "https://t.me",
-                      isExternal: !0,
-                      variant: "flat",
-                      children: (0, r.jsx)(p.Z, {}),
-                    }),
-                  }),
-                  (0, r.jsx)(x.k, {
-                    children: (0, r.jsx)(m.A, {
-                      as: d.O,
                       color: "primary",
                       href: "https://app-brainiac-ai-3ldx.vercel.app/",
                       variant: "flat",
